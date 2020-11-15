@@ -1,0 +1,19 @@
+{
+  "name": "view-source-switch",
+  "version": "0.0.1",
+  "description": "One-click switch between web page and view-source",
+  "main": "background.js",
+  "scripts": {
+    "test": "npx tsc && npx web-ext lint --ignore-files=tsconfig.json package.json package-lock.json images README.md */*.ts */*.drawio",
+    "build": "npx tsc && npx web-ext build --ignore-files=tsconfig.json package.json package-lock.json images README.md */*.ts */*.drawio --overwrite-dest",
+    "check-lib": "npm outdated"
+  },
+  "author": "Florent Tassy",
+  "license": "MIT",
+  "dependencies": {},
+  "homepage": "https://github.com/ftassy/GCalTab",
+  "devDependencies": {
+    "typescript": "^4.0.5",
+    "web-ext": "^5.3.0"
+  }
+}

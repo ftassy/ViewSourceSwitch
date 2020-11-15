@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+    "name": "View Source Switch",
+    "description": "One-click switch between web page and view-source",
+    "version": "0.0.1",
+    "author": "Florent Tassy",
+    "applications": {
+        "gecko": {
+            "id": "view-source-switch@ftassy.github.io"
+        }
+    },
+    "permissions": [
+        "tabs"
+    ],
+    "browser_action": {
+        "default_title": "View Source Switch",
+        "default_icon": "icons/icon.svg"
+    },
+    "icons": {
+        "48": "icons/icon.svg",
+        "96": "icons/icon.svg"
+    },
+    "background": {
+        "scripts": ["script/background.js"]
+    }
+}
