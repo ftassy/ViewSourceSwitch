@@ -19,6 +19,7 @@ However, this key combination can easily be changed in the Firefox <a href="abou
 
 <h3>What permissions are needed ?</h3>
 The only needed permission is:  
+
 <strong>Access browser tabs</strong>  
 
 Per <a href="https://support.mozilla.org/en-US/kb/permission-request-messages-firefox-extensions#w_access-browser-tabs">Mozilla documentation</a>, 
