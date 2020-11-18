@@ -3,14 +3,17 @@ View Source Switch is a Firefox add-on that allows one click switching the activ
 
 <h2>How does it work ?</h2>
 Once the add-on is installed, a new icon appears in Firefox toolbar:  
+
 ![Firefox toolbar](images/ViewSourceSwitch_browser_action.png)
 
 Click on it to switch to the view-source of your active tab. Click again to switch back to the regular view:  
+
 ![View Source Switch demonstration](images/ViewSourceSwitch_demo.png)
 
 Instead of clicking, you can switch page with a keyboard shortcut. The default one is <strong>Ctrl + Alt + U</strong> / <strong>command + option + U</strong>.  
 This key combination is intended to be similar to the Firefox built-in shortcut to view source in a new tab.  
 However, this key combination can easily be changed in the Firefox <a href="about:addons">add-on menu</a>:  
+
 ![Update extensions keyboard shortcuts](images/Manage_extension_shortcuts.png)
 
 
