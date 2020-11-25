@@ -1,6 +1,6 @@
 {
   "name": "view-source-switch",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "One-click switch between web page and view-source",
   "main": "background.js",
   "scripts": {
@@ -8,6 +8,8 @@
     "test": "npx web-ext lint --ignore-files=tsconfig.json package.json package-lock.json images README.md */*.ts */*.drawio",
     "prebuild": "npx tsc",
     "build": "npx web-ext build --ignore-files=tsconfig.json package.json package-lock.json images README.md */*.ts */*.drawio --overwrite-dest",
+    "preserve": "npx tsc",
+    "serve": "npx web-ext run",
     "check-lib": "npm outdated"
   },
   "author": "Florent Tassy",
@@ -15,7 +17,7 @@
   "dependencies": {},
   "homepage": "https://github.com/ftassy/ViewSourceSwitch",
   "devDependencies": {
-    "typescript": "^4.0.5",
-    "web-ext": "^5.3.0"
+    "typescript": "^4.1.2",
+    "web-ext": "^5.4.0"
   }
 }
