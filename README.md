@@ -20,15 +20,23 @@ You can change the color scheme used for syntax highlight as well as the line wr
 ![Update extensions keyboard shortcuts](images/ViewSourceSwitch_preferences.png)
 
 <h3>What permissions are needed ?</h3>
-View Source Switch requires the following permission :
+View Source Switch requires the following permissions :
 
 <strong>Access your data for all websites</strong>  
 
 Per <a href="https://support.mozilla.org/en-US/kb/permission-request-messages-firefox-extensions#w_access-your-data-for-all-websites">Mozilla documentation</a>, 
-"Access browser tabs" permission means that "The extension can read the content of any web page you 
+"Access your data for all websites" permission means that "The extension can read the content of any web page you 
 visit as well as data you enter into those web pages, such as usernames and passwords".  
 This permission is needed to get the source code of the page, apply highlighting on it, 
-and then restitute this highlighted source code.
+and then re-render this highlighted source code.
+
+<strong>Access browser tabs</strong>  
+
+Per <a href="https://support.mozilla.org/en-US/kb/permission-request-messages-firefox-extensions#w_access-browser-tabs">Mozilla documentation</a>, 
+"Access browser tabs" permission means that "The extension could obtain the URL, title, 
+and icon from any tab. ".  
+This permission is needed to maintain the View Source Switch icon state according to 
+the currently displayed URL.
 
 <h3>Does View Source Switch collect my data ?</h3>
 No.  

@@ -1,6 +1,6 @@
 {
   "name": "view-source-switch",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "One-click switch between web page and view-source",
   "main": "background.js",
   "scripts": {
