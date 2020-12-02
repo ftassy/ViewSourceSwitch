@@ -10,10 +10,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="165px"
-   height="165px"
-   viewBox="0 0 165 165"
-   content="&lt;mxfile host=&quot;Electron&quot; modified=&quot;2020-11-16T23:14:19.895Z&quot; agent=&quot;5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.9.9 Chrome/85.0.4183.121 Electron/10.1.5 Safari/537.36&quot; etag=&quot;5zfu8uakzoBjKKl6bs1y&quot; version=&quot;13.9.9&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;ACPxSawM6j1vBoaMmzut&quot; name=&quot;Page-1&quot;&gt;tZVNc5swEIZ/DcfMgBQTeoxJSC+daetDp71pkAxqBKJCDri/viuz4sPYbTKT4gPSu6uvfV7hgKZV/2RYU37SXKiAhLwP6ENASBSFFF5OOQ5KsgkHoTCSY9Ik7ORvgaJPO0gu2kWi1VpZ2SzFXNe1yO1CY8bobpm212q5asMKsRJ2OVNr9ZvktsRTkLtJ/yhkUfqVo/jDEKmYT8aTtCXjuptJ9DGgqdHaDq2qT4VyxfN1GcZlV6Ljxoyo7WsGxEXz+UvWJOnX+ufzd/6DMpre4CwvTB3wwAGJFcy33WuYFnZtj1iK+NdB+8BNewJ1DwlRGDb9FIVWgW9WNdBQQy8bBR/2gWEhP4os1iRW9E4vbaVAiKDZWqOfRaqVNqDUuhZuT1KpM4kpWdTQzaE8AvTtizBWAth7DFSSc7fMtiulFbuG5W7NDmwMmtGHmgtXuRCPjNaE46Lg1wsITUL384m4+wuAfLVhJ6KfSQjsSehKWHOEFIySBM2Dt+cuGbrdZMUoxpRyZkM/jKH7i3HmySDQQI+8wS/kgl/OkE2li64Ud0ZzVdkBr79qGwfS5Jix+Vvpl75YQJmZA3T3ZNlotnflM8KYA9rEa0Dx/wJE/w0IZoGv5zXnz+Cwthk+qXvZO6AX4Lz6ZqzwZKdnjWfU3wEPTegZnvX9ub1d0/HaG+hAd/qUn2KzP0T6+Ac=&lt;/diagram&gt;&lt;/mxfile&gt;"
+   width="173"
+   height="173"
+   viewBox="-0.5 -0.5 173 173"
+   content="&lt;mxfile host=&quot;Electron&quot; modified=&quot;2020-11-28T15:21:56.200Z&quot; agent=&quot;5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.9.9 Chrome/85.0.4183.121 Electron/10.1.5 Safari/537.36&quot; etag=&quot;t2ZQx89QcyGf56vUFI-u&quot; version=&quot;13.9.9&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;ACPxSawM6j1vBoaMmzut&quot; name=&quot;Page-1&quot;&gt;tZXLctsgFIafRsvMCIgVZRmrUbrpTFsvOu2OEViiQYIiHMl9+h4s0MWy22TayjM2+s/hdr4fHJGs7p8M1dUHxbiMcMz6iLyLML5NYvh2wnEQ0o0XSiPYIKFJ2Imf3Ish7SAYbxeJVilphV6KhWoaXtiFRo1R3TJtr+RyVk1LvhJ2BZVr9YtgtvK7wHeT/p6Lsgozo+R+iNQ0JPudtBVlqptJ5DEimVHKDq26z7h0tQt1GfrlV6Ljwgxv7Gs6JKX++CnXafa5+f78lX0jlGQ3fpQXKg9+wxFOJIy33SsYFlZtj74UyY+DCoGb9gTqARIQxhpgb6cEaJX+l9YaGnJ4y0chhENgmCv0wotpseW90ytbSxAQNFtr1DPPlFQGlEY13C1LSHkmUSnKBl4LqBAHffvCjRXA9sEHasGYm2bbVcLynaaFm7MDI4Nm1KFh3BUv9rv27kSO3UkI80WYpLH7hES/+guMQsFhJbyfSZ7ZE1c1t+YIKT6K79KhSzfZD4VTVc2tF04W9ZYvx7EmV0DDG+MNJsEXTHIGaSoWulLOGb95LeN4BBrOF3ISNYVP2cS/qfbSCgsOMz+A7p48H/31d0hSX2l/pyGC1og2yRpR8r8IkT8TglHgzrxm9hkd2urhIt2L3hE9p3MJ4Kvx5KdnjWfU/wEekpIlnlu8wkPu13SC9gY68Dpd4KfY7F+QPP4C&lt;/diagram&gt;&lt;/mxfile&gt;"
    id="svg26"
    sodipodi:docname="icon_on.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
@@ -25,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,23 +42,28 @@
      inkscape:window-height="1051"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="4.3333333"
-     inkscape:cx="81.5"
-     inkscape:cy="82.5"
+     fit-margin-top="-23"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.6294416"
+     inkscape:cx="83.070801"
+     inkscape:cy="75"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg26" />
+     inkscape:current-layer="svg26"
+     inkscape:document-rotation="0" />
   <defs
      id="defs2" />
   <g
      id="g16"
-     transform="translate(0,-17.539062)">
+     transform="translate(-0.929199,-23.5)">
     <rect
-       x="2"
-       y="20"
+       x="8"
+       y="0"
        width="160"
-       height="80"
+       height="150"
        fill="none"
        stroke="none"
        pointer-events="all"
@@ -74,53 +80,52 @@
            height="100%"
            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
-             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 60px; margin-left: 3px;">
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 75px; margin-left: 9px;">
             <xhtml:div
                style="box-sizing: border-box; font-size: 0; text-align: center; ">
               <xhtml:div
-                 style="display: inline-block; font-size: 100px; font-family: Helvetica; color: #808080; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                 style="display: inline-block; font-size: 122px; font-family: Helvetica; color: #808080; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
                 <xhtml:font
-                   style="font-size: 100px">&lt;/&gt;</xhtml:font>
+                   style="font-size: 122px">&lt;/&gt;</xhtml:font>
               </xhtml:div>
             </xhtml:div>
           </xhtml:div>
         </foreignObject>
         <text
-           x="82"
-           y="90"
+           x="88"
+           y="112"
            fill="#808080"
            font-family="Helvetica"
-           font-size="100px"
+           font-size="122px"
            text-anchor="middle"
            font-weight="bold"
            id="text6">&lt;/&gt;</text>
       </switch>
     </g>
     <rect
-       x="2"
-       y="102"
+       x="10"
+       y="131"
        width="156"
        height="60"
        rx="30"
        ry="30"
        fill="#3333ff"
        stroke="#808080"
-       stroke-width="5"
+       stroke-width="10"
        pointer-events="all"
        id="rect12" />
     <circle
-       cx="127"
-       cy="132"
+       cx="132.5"
+       cy="161.5"
        fill="#ffffff"
        stroke="#ffffff"
-       stroke-width="5"
        pointer-events="all"
        id="ellipse14"
-       r="22" />
+       r="19.5" />
   </g>
   <switch
      id="switch24"
-     transform="translate(0,-17.539062)">
+     transform="translate(-0.929199,-23.5)">
     <g
        requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
        id="g18" />
