@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Options</title>
+    <style>
+        form {
+            padding: 1em;
+        }
+
+        pre {
+            border-style: solid;
+        }
+
+        code {
+            font-family: -moz-fixed;
+        }
+    </style>
+</head>
+
+<body class="hljs">
+
+    <form>
+        <label for="style" class="hljs-string">Style :</label>
+        <select name="style" id="styleSelector" class="hljs hljs-keyword">
+        </select>
+    </form>
+    <form>
+        <label for="wrap" class="hljs-string">Wrap long lines :</label>
+        <br>
+        <input type="radio" id="yes" name="wrap" value="yes">
+        <label for="yes" class="hljs-params">Yes</label>
+        <input type="radio" id="no" name="wrap" value="no">
+        <label for="No" class="hljs-params">No</label>
+    </form>
+    <p class="hljs-string">Sample code :</p>
+    <pre>
+        <code class="language-html">
+&lt;html lang="en"&gt;
+
+&lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;title&gt;Sample code&lt;/title&gt;
+    &lt;style&gt;
+        p {
+        color: black;
+        background-color: white;
+        }
+    &lt;/style&gt;
+    &lt;link href="css/style.css" rel="stylesheet" /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    &lt;p&gt;
+    Aliquam convallis sollicitudin purus. Praesent aliquam, enim at fermentum mollis, ligula massa adipiscing nisl, ac euismod nibh nisl eu lectus.
+    Fusce vulputate sem at sapien. Vivamus leo. Aliquam euismod libero eu enim. Nulla nec felis sed leo placerat imperdiet.
+    &lt;/p&gt;
+    &lt;script src="file.js"&gt;&lt;/script&gt;
+    &lt;script&gt;
+        var message1 = "Hello";
+        var message2 = "World";
+        console.log(message1, message2)
+    &lt;/script&gt;
+&lt;/body&gt;
+
+&lt;/html&gt;
+        </code>
+    </pre>
+
+    <script src="highlightjs/highlight.min.js"></script>
+    <script src="scripts/style.js"></script>
+    <script src="scripts/options.js"></script>
+</body>
+
+</html>

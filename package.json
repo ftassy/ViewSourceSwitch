@@ -5,12 +5,15 @@
   "main": "background.js",
   "scripts": {
     "pretest": "npx tsc",
-    "test": "npx web-ext lint --ignore-files=tsconfig.json package.json package-lock.json images README.md */*.ts */*.drawio",
+    "test": "npx web-ext lint --ignore-files=tsconfig.json package.json package-lock.json images README.md */*.ts */*.drawio ignored",
     "prebuild": "npx tsc",
-    "build": "npx web-ext build --ignore-files=tsconfig.json package.json package-lock.json images README.md */*.ts */*.drawio --overwrite-dest",
-    "preserve": "npx tsc",
-    "serve": "npx web-ext run",
-    "check-lib": "npm outdated"
+    "build": "npx web-ext build --ignore-files=tsconfig.json package.json package-lock.json images README.md */*.ts */*.drawio ignored --overwrite-dest",
+    "prestart": "npx tsc",
+    "start": "npx web-ext run",
+    "check-lib": "npm outdated",
+    "prebuild-highlight": "rm -r highlightjs && git clone https://github.com/highlightjs/highlight.js.git && cd highlight.js && npm install",
+    "build-highlight": "cd highlight.js && node tools/build.js xml javascript css",
+    "postbuild-highlight": "mkdir highlightjs highlightjs/styles && cp highlight.js/build/demo/styles/* highlightjs/styles && cp highlight.js/build/highlight.min.js highlightjs && cp highlight.js/LICENSE highlightjs && rm -r highlight.js"
   },
   "author": "Florent Tassy",
   "license": "GPL-3.0-or-later",
